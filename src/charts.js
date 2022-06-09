@@ -4,6 +4,7 @@ import {
   barchart,
   barchartmultiset,
   barchartstacked,
+  barchartpaired,
   beeswarm,
   boxplot,
   bubblechart,
@@ -41,6 +42,7 @@ let charts = [
   barchart,
   barchartmultiset,
   barchartstacked,
+  barchartpaired,
   beeswarm,
   boxplot,
   bubblechart,
@@ -67,8 +69,6 @@ let charts = [
   violinplot,
   voronoidiagram,
   voronoitreemap,
-
-  
 ]
 
 export default charts
