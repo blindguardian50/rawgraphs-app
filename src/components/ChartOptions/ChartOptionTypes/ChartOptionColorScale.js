@@ -222,7 +222,7 @@ const ChartOptionColorScale = ({
       setInterpolators(nextInterpolators)
 
       //set first interpolator
-      const nextInterpolator = nextInterpolators[0]
+      const nextInterpolator = nextScaleType === scaleType ? interpolator : nextInterpolators[0]
       setInterpolator(nextInterpolator)
 
       //user values
