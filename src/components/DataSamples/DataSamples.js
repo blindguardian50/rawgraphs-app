@@ -223,6 +223,15 @@ const samplesList = [
   },
 
   {
+    name: 'Population Austria',
+    category: 'Bar chart',
+    url: './sample-datasets/Paired Bar Chart - Population Austria.tsv',
+    delimiter: '\t',
+    sourceName: 'Statistik Austria',
+    sourceURL: 'https://www.statistik.at/statistiken/bevoelkerung-und-soziales/bevoelkerung/bevoelkerungsstand/bevoelkerung-nach-alter/geschlecht',
+  },
+
+  {
     name: 'Premier League and Serie A points',
     category: 'Slope chart',
     url: './sample-datasets/Slope graph - Premier SerieA ranking.tsv',
