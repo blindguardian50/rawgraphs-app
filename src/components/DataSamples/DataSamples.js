@@ -1,8 +1,16 @@
-import React from 'react'
-import { Row, Col, Card } from 'react-bootstrap'
+import { Card, Col, Row } from 'react-bootstrap'
 import styles from './DataSamples.module.scss'
 
 const samplesList = [
+  {
+    name: 'Migration Flow',
+    category: 'Chord Diagram',
+    url: './sample-datasets/Chord Diagram - Migration Flow.csv',
+    delimiter: ';',
+    sourceName: 'Abel and Sander (2014)',
+    sourceURL:
+      'https://www.science.org/doi/10.1126/science.1248676',
+  },
   {
     name: 'Hate crimes in New York',
     category: 'Alluvial Diagram',
