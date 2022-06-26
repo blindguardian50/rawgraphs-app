@@ -177,7 +177,7 @@ const samplesList = [
 
   {
     name: 'Iris flowers',
-    category: 'Convex hull, Parallel Coordinates',
+    category: 'Convex hull, Similarity Map, Parallel Coordinates',
     url: './sample-datasets/Convex hull - Iris flowers.tsv',
     delimiter: '\t',
     sourceName: 'R. Fisher',
