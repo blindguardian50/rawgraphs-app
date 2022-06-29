@@ -224,7 +224,7 @@ const samplesList = [
 
   {
     name: 'Population Austria',
-    category: 'Bar chart',
+    category: 'Paired Bar chart',
     url: './sample-datasets/Paired Bar Chart - Population Austria.tsv',
     delimiter: '\t',
     sourceName: 'Statistik Austria',
