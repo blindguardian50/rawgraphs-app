@@ -1,6 +1,6 @@
 {
   "name": "rawgraphs-frontend",
-  "homepage": "https://app.rawgraphs.io",
+  "homepage": "https://blindguardian50.github.io/rawgraphs-app",
   "version": "2.0.0-beta.13",
   "private": true,
   "dependencies": {
@@ -19,6 +19,7 @@
     "comlink": "^4.3.0",
     "d3": "^7.2.0",
     "dayjs": "^1.8.33",
+    "gh-pages": "^4.0.0",
     "js-sha3": "^0.8.0",
     "lit-html": "^1.3.0",
     "lodash": "^4.17.15",
@@ -45,7 +46,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
