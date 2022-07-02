@@ -37,7 +37,7 @@ jobs:
         run: yarn install
 
       - name: Clone Charts Repository
-        run: pwd && cd .. && rm -r rawgraphs-charts && git clone https://github.com/blindguardian50/rawgraphs-charts.git && cd rawgraphs-charts && pwd &&
+        run: pwd && cd .. && ls -l && git clone https://github.com/blindguardian50/rawgraphs-charts.git && cd rawgraphs-charts && pwd &&
           npm install && npm run build && yarn link
 
       - name: Link charts repository
