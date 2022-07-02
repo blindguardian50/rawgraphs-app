@@ -1,0 +1,226 @@
+﻿Origin;Destination;Migration Flow
+North America;North America;96102
+North America;Central America;208668
+North America;South America;68240
+North America;North Africa;4253
+North America;Sub-Saharan Africa;58827
+North America;Northern Europe;248379
+North America;Western Europe;279267
+North America;Southern Europe;551959
+North America;Eastern Europe;162959
+North America;Central Asia;85259
+North America;Western Asia;131288
+North America;South Asia;158
+North America;East Asia;39145
+North America;South-East Asia;41758
+North America;Oceania;52303
+Central America;North America;3233173
+Central America;Central America;215008
+Central America;South America;36975
+Central America;North Africa;390
+Central America;Sub-Saharan Africa;2414
+Central America;Northern Europe;42572
+Central America;Western Europe;81356
+Central America;Southern Europe;190931
+Central America;Eastern Europe;4962
+Central America;Central Asia;3145
+Central America;Western Asia;6236
+Central America;South Asia;14
+Central America;East Asia;1754
+Central America;South-East Asia;510
+Central America;Oceania;7541
+South America;North America;394674
+South America;Central America;26456
+South America;South America;600759
+South America;North Africa;417
+South America;Sub-Saharan Africa;19431
+South America;Northern Europe;68645
+South America;Western Europe;157063
+South America;Southern Europe;1200694
+South America;Eastern Europe;18644
+South America;Central Asia;5090
+South America;Western Asia;32516
+South America;South Asia;351
+South America;East Asia;110426
+South America;South-East Asia;2035
+South America;Oceania;28490
+North Africa;North America;62193
+North Africa;Central America;93
+North Africa;South America;692
+North Africa;North Africa;57855
+North Africa;Sub-Saharan Africa;12512
+North Africa;Northern Europe;22807
+North Africa;Western Europe;404765
+North Africa;Southern Europe;442162
+North Africa;Eastern Europe;5437
+North Africa;Central Asia;1382
+North Africa;Western Asia;367718
+North Africa;South Asia;1
+North Africa;East Asia;312
+North Africa;South-East Asia;340
+North Africa;Oceania;6858
+Sub-Saharan Africa;North America;478694
+Sub-Saharan Africa;Central America;793
+Sub-Saharan Africa;South America;10738
+Sub-Saharan Africa;North Africa;44230
+Sub-Saharan Africa;Sub-Saharan Africa;3717881
+Sub-Saharan Africa;Northern Europe;483736
+Sub-Saharan Africa;Western Europe;430954
+Sub-Saharan Africa;Southern Europe;312329
+Sub-Saharan Africa;Eastern Europe;6442
+Sub-Saharan Africa;Central Asia;2724
+Sub-Saharan Africa;Western Asia;305291
+Sub-Saharan Africa;South Asia;243
+Sub-Saharan Africa;East Asia;2918
+Sub-Saharan Africa;South-East Asia;576
+Sub-Saharan Africa;Oceania;149130
+Northern Europe;North America;47627
+Northern Europe;Central America;2770
+Northern Europe;South America;6125
+Northern Europe;North Africa;1255
+Northern Europe;Sub-Saharan Africa;118260
+Northern Europe;Northern Europe;172448
+Northern Europe;Western Europe;69445
+Northern Europe;Southern Europe;192786
+Northern Europe;Eastern Europe;66783
+Northern Europe;Central Asia;12912
+Northern Europe;Western Asia;41223
+Northern Europe;South Asia;2
+Northern Europe;East Asia;3595
+Northern Europe;South-East Asia;1671
+Northern Europe;Oceania;98602
+Western Europe;North America;9854
+Western Europe;Central America;1040
+Western Europe;South America;5396
+Western Europe;North Africa;2244
+Western Europe;Sub-Saharan Africa;42358
+Western Europe;Northern Europe;129499
+Western Europe;Western Europe;442833
+Western Europe;Southern Europe;507931
+Western Europe;Eastern Europe;216677
+Western Europe;Central Asia;16722
+Western Europe;Western Asia;77710
+Western Europe;South Asia;9
+Western Europe;East Asia;1108
+Western Europe;South-East Asia;4878
+Western Europe;Oceania;18763
+Southern Europe;North America;713
+Southern Europe;Central America;449
+Southern Europe;South America;236
+Southern Europe;North Africa;206
+Southern Europe;Sub-Saharan Africa;12289
+Southern Europe;Northern Europe;7028
+Southern Europe;Western Europe;14745
+Southern Europe;Southern Europe;15030
+Southern Europe;Eastern Europe;13810
+Southern Europe;Central Asia;1431
+Southern Europe;Western Asia;7311
+Southern Europe;South Asia;4
+Southern Europe;East Asia;510
+Southern Europe;South-East Asia;197
+Southern Europe;Oceania;1022
+Eastern Europe;North America;7455
+Eastern Europe;Central America;36
+Eastern Europe;South America;706
+Eastern Europe;North Africa;125
+Eastern Europe;Sub-Saharan Africa;589
+Eastern Europe;Northern Europe;65289
+Eastern Europe;Western Europe;177341
+Eastern Europe;Southern Europe;456014
+Eastern Europe;Eastern Europe;315272
+Eastern Europe;Central Asia;189294
+Eastern Europe;Western Asia;13543
+Eastern Europe;South Asia;5
+Eastern Europe;East Asia;11
+Eastern Europe;South-East Asia;2
+Eastern Europe;Oceania;9137
+Central Asia;North America;15473
+Central Asia;Central America;37
+Central Asia;South America;258
+Central Asia;North Africa;488
+Central Asia;Sub-Saharan Africa;713
+Central Asia;Northern Europe;15731
+Central Asia;Western Europe;131793
+Central Asia;Southern Europe;33649
+Central Asia;Eastern Europe;193536
+Central Asia;Central Asia;1234157
+Central Asia;Western Asia;20628
+Central Asia;South Asia;2834
+Central Asia;East Asia;5584
+Central Asia;South-East Asia;85
+Central Asia;Oceania;944
+Western Asia;North America;170652
+Western Asia;Central America;645
+Western Asia;South America;8886
+Western Asia;North Africa;93782
+Western Asia;Sub-Saharan Africa;41403
+Western Asia;Northern Europe;89952
+Western Asia;Western Europe;253958
+Western Asia;Southern Europe;109428
+Western Asia;Eastern Europe;81612
+Western Asia;Central Asia;155212
+Western Asia;Western Asia;979296
+Western Asia;South Asia;16120
+Western Asia;East Asia;414
+Western Asia;South-East Asia;3138
+Western Asia;Oceania;39798
+South Asia;North America;1508008
+South Asia;Central America;3846
+South Asia;South America;2888
+South Asia;North Africa;7916
+South Asia;Sub-Saharan Africa;55555
+South Asia;Northern Europe;755399
+South Asia;Western Europe;297476
+South Asia;Southern Europe;325555
+South Asia;Eastern Europe;13079
+South Asia;Central Asia;13285
+South Asia;Western Asia;4903558
+South Asia;South Asia;1307907
+South Asia;East Asia;73599
+South Asia;South-East Asia;525881
+South Asia;Oceania;347420
+East Asia;North America;1057904
+East Asia;Central America;9189
+East Asia;South America;25953
+East Asia;North Africa;1231
+East Asia;Sub-Saharan Africa;15861
+East Asia;Northern Europe;200949
+East Asia;Western Europe;118900
+East Asia;Southern Europe;127273
+East Asia;Eastern Europe;22665
+East Asia;Central Asia;63882
+East Asia;Western Asia;3040
+East Asia;South Asia;117
+East Asia;East Asia;781316
+East Asia;South-East Asia;145264
+East Asia;Oceania;278746
+South-East Asia;North America;973060
+South-East Asia;Central America;2493
+South-East Asia;South America;3587
+South-East Asia;North Africa;17576
+South-East Asia;Sub-Saharan Africa;8004
+South-East Asia;Northern Europe;176095
+South-East Asia;Western Europe;273505
+South-East Asia;Southern Europe;94531
+South-East Asia;Eastern Europe;57470
+South-East Asia;Central Asia;7728
+South-East Asia;Western Asia;869406
+South-East Asia;South Asia;59126
+South-East Asia;East Asia;380388
+South-East Asia;South-East Asia;1630997
+South-East Asia;Oceania;333608
+Oceania;North America;27137
+Oceania;Central America;349
+Oceania;South America;1436
+Oceania;North Africa;272
+Oceania;Sub-Saharan Africa;4475
+Oceania;Northern Europe;46514
+Oceania;Western Europe;28276
+Oceania;Southern Europe;72232
+Oceania;Eastern Europe;24229
+Oceania;Central Asia;4245
+Oceania;Western Asia;11371
+Oceania;South Asia;5
+Oceania;East Asia;5659
+Oceania;South-East Asia;11883
+Oceania;Oceania;190706
