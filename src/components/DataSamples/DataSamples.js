@@ -3,13 +3,13 @@ import styles from './DataSamples.module.scss'
 
 const samplesList = [
   {
-    name: 'Migration Flow',
+    name: 'The Global Flow of People',
     category: 'Chord Diagram',
-    url: './sample-datasets/Chord Diagram - Migration Flow.csv',
+    url: './sample-datasets/Chord Diagram - The Global Flow of People.csv',
     delimiter: ';',
-    sourceName: 'Abel and Sander (2014)',
+    sourceName: 'Nikola Sander, Guy J. Abel & Ramon Bauer',
     sourceURL:
-      'https://www.science.org/doi/10.1126/science.1248676',
+      'http://download.gsb.bund.de/BIB/global_flow/',
   },
   {
     name: 'Hate crimes in New York',
