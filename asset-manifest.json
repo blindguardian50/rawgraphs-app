@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rawgraphs-app/static/css/main.86b25f93.chunk.css",
-    "main.js": "/rawgraphs-app/static/js/main.2ea5a4e0.chunk.js",
-    "main.js.map": "/rawgraphs-app/static/js/main.2ea5a4e0.chunk.js.map",
+    "main.js": "/rawgraphs-app/static/js/main.b7609a99.chunk.js",
+    "main.js.map": "/rawgraphs-app/static/js/main.b7609a99.chunk.js.map",
     "runtime-main.js": "/rawgraphs-app/static/js/runtime-main.3e5e07f5.js",
     "runtime-main.js.map": "/rawgraphs-app/static/js/runtime-main.3e5e07f5.js.map",
     "static/css/2.8f2a1c0c.chunk.css": "/rawgraphs-app/static/css/2.8f2a1c0c.chunk.css",
@@ -14,8 +14,8 @@
     "static/css/2.8f2a1c0c.chunk.css.map": "/rawgraphs-app/static/css/2.8f2a1c0c.chunk.css.map",
     "static/css/main.86b25f93.chunk.css.map": "/rawgraphs-app/static/css/main.86b25f93.chunk.css.map",
     "static/js/2.e1108f85.chunk.js.LICENSE.txt": "/rawgraphs-app/static/js/2.e1108f85.chunk.js.LICENSE.txt",
-    "static/js/worker.95503fb9.worker.js": "/rawgraphs-app/static/js/worker.95503fb9.worker.js",
-    "static/js/worker.95503fb9.worker.js.map": "/rawgraphs-app/static/js/worker.95503fb9.worker.js.map",
+    "static/js/worker.fadf0c06.worker.js": "/rawgraphs-app/static/js/worker.fadf0c06.worker.js",
+    "static/js/worker.fadf0c06.worker.js.map": "/rawgraphs-app/static/js/worker.fadf0c06.worker.js.map",
     "static/media/index.scss": "/rawgraphs-app/static/media/Inter.var.a738a131.woff2",
     "static/media/DataGrid.module.scss": "/rawgraphs-app/static/media/arrow-up.fb1aab50.svg",
     "static/media/asterisk.a0a42b25.svg": "/rawgraphs-app/static/media/asterisk.a0a42b25.svg"
@@ -25,6 +25,6 @@
     "static/css/2.8f2a1c0c.chunk.css",
     "static/js/2.e1108f85.chunk.js",
     "static/css/main.86b25f93.chunk.css",
-    "static/js/main.2ea5a4e0.chunk.js"
+    "static/js/main.b7609a99.chunk.js"
   ]
 }
