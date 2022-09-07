@@ -43,7 +43,7 @@
   },
   "scripts": {
     "format": "prettier --write src",
-    "start": "PUBLIC_URL=/ react-scripts start",
+    "start": "cross-env PUBLIC_URL=/ react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
@@ -67,7 +67,8 @@
   },
   "devDependencies": {
     "node-sass": "^4.14.1",
-    "prettier": "^2.1.2"
+    "prettier": "^2.1.2",
+    "cross-env": "^7.0.3"
   },
   "engines": {
     "node": "^14"
